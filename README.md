@@ -10,6 +10,7 @@ this project:
 
 I ordered the `SCD40` and the `ESP32-C3 SuperMini` via AliExpress and I'm 
 currently waiting for the delivery. I'll start on the design of the enclosure
-once I've got the breadboard version of the CO<sub>2</sub> sensor operational.
+once I've got the breadboard version of the CO<sub>2</sub> sensor operational
+and know the exact sizes of all components.
 
 *To be continued ...*
