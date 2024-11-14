@@ -1,6 +1,6 @@
 # CO2-sensor
 After reading an article about the health issues caused by high CO<sub>2</sub> 
-concentrations, the price af a ready-made sensor trigger me to start this DIY 
+concentrations, the price af a ready-made sensor triggered me to start this DIY 
 project. After some research I decided on using the following components for 
 this project:
 - An [`SCD40`](https://duckduckgo.com/?q=scd40) CO<sub>2</sub> sensor.
